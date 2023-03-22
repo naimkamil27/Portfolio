@@ -12,6 +12,7 @@
           <div class="mt-3">
             <h4>Im providing front end development codes and UIUX design. <br> Also do freelance in animation. Let's get working together.</h4>
           </div>
+          <div class="mt-3 py-2 px-3 text-black rounded-lg" style="background-color: aqua;display: inline-block;">Not mobile friendly yet. Please use laptop or pc</div>
         </div>
         <div class="justify-between" style="font-size: 50px;">
           <button><a target="_blank" href="https://www.linkedin.com/in/naim-kamil-b6679a237/"><i class='box bx bxl-linkedin'></i></a></button>
