@@ -3,46 +3,46 @@
     <div class="container">    
         <div class="grid grid-cols-2 gap-7 text-white">
             <div>
-                <NuxtLink to="/projectdetails">
+                <NuxtLink to="/JomDobi">
                     <img src="~/assets/images/jomdobi.png" class="box" alt="">
                 </NuxtLink>
                 <h2 class="mt-2 text-2xl" style="font-family: 'Roboto Mono', monospace;">Jom!Dobi</h2>
-                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development</h5>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development • Mobile Development</h5>
             </div>
             <div>
-                <NuxtLink to="/projectdetails">
+                <NuxtLink to="/JomDentist">
                     <img src="~/assets/images/jomdentist.png" class="box" alt="">
                 </NuxtLink>
                 <h2 class="mt-2 text-2xl" style="font-family: 'Roboto Mono', monospace;">JomDentist</h2>
-                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development</h5>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development • Mobile Development </h5>
             </div>
             <div>
                 <NuxtLink to="/projectdetails">
                     <img src="~/assets/images/citra.png" class="box" alt="">
                 </NuxtLink>
                 <h2 class="mt-2 text-2xl" style="font-family: 'Roboto Mono', monospace;">Animation</h2>
-                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development</h5>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development • Animation</h5>
             </div>
             <div>
                 <NuxtLink to="/projectdetails">
                     <img src="~/assets/images/jomvaccine.png" class="box" alt="">
                 </NuxtLink>
                 <h2 class="mt-2 text-2xl" style="font-family: 'Roboto Mono', monospace;">Jom!Vaccine</h2>
-                <h5 style="font-family: 'Nunito Sans', sans-serif;">UI/UX Design</h5>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">UI/UX Design • Mobile Development</h5>
             </div>
             <div>
                 <NuxtLink to="/projectdetails">
                     <img src="~/assets/images/toshibajet.png" class="box" alt="">
                 </NuxtLink>
                 <h2 class="mt-2 text-2xl" style="font-family: 'Roboto Mono', monospace;">Toshibajet</h2>
-                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development</h5>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development • Website Development</h5>
             </div>
             <div>
                 <NuxtLink to="/projectdetails">
                     <img src="~/assets/images/wakemeup.png" class="box" alt="">
                 </NuxtLink>
                 <h2 class="mt-2 text-2xl" style="font-family: 'Roboto Mono', monospace;">WakeMeUp</h2>
-                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development</h5>
+                <h5 style="font-family: 'Nunito Sans', sans-serif;">Full development • Game Development</h5>
             </div>
         </div>
         <div class="text-end mt-7 text-white" style="text-decoration: underline; font-family: 'Nunito Sans', sans-serif;">

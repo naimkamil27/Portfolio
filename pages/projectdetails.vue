@@ -2,7 +2,7 @@
     <Head>
         <Title>Naim Kamil | Project Details</Title>
     </Head>
-    <div class="font text-center text-white" style="margin-top: 250px;">
+    <div class="font text-center text-white" style="margin-top: 200px;">
         <div>
             <h1 class="text-7xl mb-14">
                 Title

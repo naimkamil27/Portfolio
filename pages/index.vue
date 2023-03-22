@@ -21,6 +21,7 @@
       </div>
     </div>
     <!-- <Services style="margin-bottom: 250px;" /> -->
+    <!-- <Skills />  -->
     <Projects />
     <!-- <About /> -->
   </div>

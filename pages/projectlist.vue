@@ -17,7 +17,7 @@
                     </p>
                     <div class="mt-4">
                         
-                        <NuxtLink style="text-decoration: underline;" to="/projectdetails">See more</NuxtLink>
+                        <NuxtLink style="text-decoration: underline;" to="/JomDobi">See more</NuxtLink>
                     </div>
                 </div>
                 <div id="container">
@@ -30,7 +30,7 @@
                         Mobile application for primary schools student to learn and get to know how to take care of their dental health.
                     </p>
                     <div class="mt-4">
-                        <NuxtLink style="text-decoration: underline;" to="/projectdetails">See more</NuxtLink>
+                        <NuxtLink style="text-decoration: underline;" to="/JomDentist">See more</NuxtLink>
                     </div>
                 </div>
                 <div id="container">

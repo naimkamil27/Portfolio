@@ -2,7 +2,7 @@
     <div>
         <header class="shadow-lg fixed w-full" style="background-color: #242423;">
             <nav class="container mx-auto p-6 flex justify-between items-center">
-                <NuxtLink to="/" class="title" style="color: #fff;">Naim Kamil</NuxtLink>
+                <NuxtLink to="/" class="title" style="color: #fff;">NaimKamil</NuxtLink>
                 <ul class="flex gap-7" style="color: #d3d3d3;">
                     <li><NuxtLink to="/projectlist">Work</NuxtLink></li>
                     <li><NuxtLink to="/about">About</NuxtLink></li>
@@ -21,6 +21,8 @@
     </div>
 </template>
 <style scoped>
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 .router-link-exact-active{
     color: aqua;
 }
